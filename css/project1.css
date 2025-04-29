@@ -1,0 +1,119 @@
+@font-face {
+    font-family: kitten;
+    src: url(../assets/fonts/AustieBostKittenKlub.ttf);
+}
+
+.play_wild{
+    width: 60vw;
+    height: 60vh;
+    position: absolute;
+    top: 180px;
+    right: 700px;
+}
+
+.fight_the_phantoms{
+    width: 30vw;
+    height: 70vh;
+    position: absolute;
+    top: 190px;
+    right: 5px;
+}
+
+body{
+    background-color: rgb(69, 119, 21);
+}
+h1{
+    color: rgb(255, 202, 28);
+    border: 3px solid black
+}
+.heading-1{
+    font-family: kitten;
+    background-color: rgb(93, 163, 224);
+    text-align: center;
+    margin: auto;
+}
+
+h2{
+    text-align: center;
+    color: rgb(255, 201, 25);
+    border: 3px solid black;
+}
+.heading-2{
+    font-family: kitten;
+    background-color: rgb(93, 163, 224);
+    margin-left: auto;
+}
+
+p{
+    text-align: center;
+    color: rgb(255, 249, 216);
+}
+
+.body{
+    font-family: kitten;
+    background-color: background: #65a7d6;
+    background: linear-gradient(179deg, rgba(101, 167, 214, 1) 25%, rgba(110, 217, 93, 1) 51%, rgba(191, 214, 62, 1) 100%);
+    margin; auto;
+    border: 20px solid rgb(255, 201, 25);  
+}
+.body_aj{
+    font-size: 100px;
+    span{
+        color: rgb(131, 225, 55);
+    }
+}
+
+ul{
+    color: rgb(255, 249, 216);
+    font-family: kitten;
+    border: 3px dotted black
+}
+.links{
+    background-color: rgb(93, 163, 224);
+    margin-right: 950px;
+    margin-left: 100px;
+}
+
+span{
+    color: rgb(255, 201, 25);
+}
+
+img{
+    width: 200px;
+    margin; 100px;
+}
+
+.digiphantom{
+    width: 40vw;
+    height: 70vh;
+    position: absolute;
+    top: 550px;
+    left: 900px;
+}
+
+.phantom{
+    width: 60vw;
+    height: 120vh;
+    position: absolute;
+    top: 800px;
+    left: 1px;
+}
+
+.video{
+    position: absolute;
+    top: 1050px;
+    right: 10px;
+}
+
+.audio{
+    position: absolute;
+    top: 1400px;
+    right: 10px;
+}
+
+.p2{
+    font-family: kitten;
+    span{
+        color: rgb(255, 196, 34);
+    }
+}
